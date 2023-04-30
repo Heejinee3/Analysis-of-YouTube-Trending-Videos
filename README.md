@@ -30,6 +30,9 @@ more views, subscribers, and traffic to your video will be easier.
 ### Report and Materials
 
 [Dataset](https://www.kaggle.com/datasnaek/youtube-new)
+
 [Code](https://github.com/Heejinee3/Data-Science/tree/master/Code)
+
 [Presentation PPT](https://github.com/Heejinee3/Data-Science/blob/master/Presentation.pdf)
+
 [Report](https://github.com/Heejinee3/Data-Science/blob/master/Report.pdf)
