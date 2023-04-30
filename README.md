@@ -21,8 +21,6 @@ These changes show that how important the contents are to this business, especia
 So, our goal in this project report is to describe characteristics of videos drawing large amount of viewers. 
 Taking these features into consideration, strategic planning to get more views, subscribers, and traffic to your video will be easier.
 
-***
-
 ### Report and Materials
 
 [Dataset](https://www.kaggle.com/datasnaek/youtube-new)
