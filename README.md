@@ -1,7 +1,5 @@
 # Data Analysis of YouTube Trending Videos
 
-***
-
 ### Introduction
 
 > YouTube is a video sharing platform serviced by Google. 
