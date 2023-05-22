@@ -122,7 +122,7 @@ What makes the number of views high?
         The result shows the fact that the more view, the more likes.
         So we can also write them as high-likes-group(cluster 2), middle-likes-group(cluster 1), and low-likesgroup(cluster 3).
 
-        ![Figure6](/assets/project/Analysis-of-YouTube-Trending-Videos/Figure6.PNG)
+        ![Figure6](/README/Figure6.PNG)
 
         For the each groups, we analyzed seven characteristics as follows.
 
@@ -141,7 +141,7 @@ What makes the number of views high?
         category ID.
         So we visualized differences of those five variables by clusters.
 
-        ![Figure7](/assets/project/Analysis-of-YouTube-Trending-Videos/Figure7.PNG)
+        ![Figure7](/README/Figure7.PNG)
 
         According to the Figure 28, the high-view-group(cluster 2) has 0~30 number of tags while other groups has more or less tags.
         This facts do stack up with our analysis for number of tags on 14 page: there was a tendency to increase of the view at 0~30, and after that, the number of views decreases slightly as the number of tags increases.
