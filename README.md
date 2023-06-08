@@ -1,5 +1,7 @@
 ## Overview
 
+---
+
 Nowadays, the online video market is starting to be more and more competitive under
 the broadening influence of YouTube, which is the very famous social media platform all
 over the world.
@@ -14,6 +16,8 @@ number of views, and 2) what is the better way to get more view counts.
 <br>
 
 ## Introduction
+
+---
 
 YouTube is a video sharing platform serviced by Google.
 As the largest video sharing site in the world, YouTube users can watch, upload, and share videos.
@@ -46,6 +50,8 @@ Taking these features into consideration, strategic planning to get more views, 
 
 ## Workflow
 
+---
+
 1. Preprocessing of the dataset & Column modifications
 2. Exploratory analysis: review of data characteristics & visualization
 3. Statistical analysis of ranking factors: length of the title, number of tags, common
@@ -56,6 +62,8 @@ Taking these features into consideration, strategic planning to get more views, 
 <br>
 
 ## Dataset
+
+---
 
 The dataset was extracted from Kaggle, [Trending YouTube Video Statistics](https://www.kaggle.com/datasnaek/youtube-new).
 
@@ -84,6 +92,8 @@ There are total 16 variables (except index)
 <br>
 
 ## Conclusions with Clustering
+
+---
 
 What makes the number of views high?
 
