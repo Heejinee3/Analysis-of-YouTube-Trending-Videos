@@ -25,7 +25,7 @@ Anyone using a computer could upload videos, making them visible to millions of 
 It is used in various fields for communication in society.
 It is used in most fields such as marketing, politics, education, games, entertainment, music, and sports.
 
-![Figure1](/assets/project/Analysis-of-YouTube-Trending-Videos/Figure1.PNG)
+![Figure1](/README/Figure1.PNG)
 
 According to the 'Social media and Scanning portal Trend report 2020' of Opensurvey,
 which is an online-based survey firm in Korea, YouTube becomes peerless social media
@@ -66,7 +66,7 @@ Taking these features into consideration, strategic planning to get more views, 
 ---
 
 The dataset was extracted from Kaggle, [Trending YouTube Video Statistics](https://
-www.kaggle.com/datasnaek/youtube-new){:target="\_blank"}.
+www.kaggle.com/datasnaek/youtube-new).
 
 According to the contributor of this dataset, it is a daily record of the top trending
 YouTube videos.
