@@ -170,3 +170,13 @@ What makes the number of views high?
         shown at Figure 20([see document](https://github.com/Heejinee3/Data-Science/blob/master/Report.pdf)).
 
     Conclusionally, clustering shows highly similar results with statistical analysis.
+    
+<br>
+
+#### **Code and Final Report**
+
+---
+
+[Code](https://github.com/Heejinee3/Analysis-of-YouTube-Trending-Videos/tree/master/Code){:target="\_blank"}
+
+[Final Report](https://github.com/Heejinee3/Analysis-of-YouTube-Trending-Videos/blob/master/Docs/Report.pdf){:target="\_blank"}
