@@ -155,7 +155,7 @@ What makes the number of views high?
         According to the Figure 28, the high-view-group(cluster 2) has 0-30 number of tags while other groups has more or less tags.
         This facts do stack up with our analysis for number of tags on 14 page: there was a tendency to increase of the view at 0-30, and after that, the number of views decreases slightly as the number of tags increases.
 
-        Length of the title is also concordant with result shown in Figure 17([see document](https://github.com/Heejinee3/Data-Science/blob/master/Report.pdf)).
+        Length of the title is also concordant with result shown in Figure 17([see document](https://github.com/Heejinee3/Data-Science/blob/master/Docs/Report.pdf)).
         Videos have 50-60 of title length are getting higher view counts.
         We can find that the value of 'common_tag' of cluster 2 and 1 are higher than cluster 3, but the range is not that big.
 
@@ -167,7 +167,7 @@ What makes the number of views high?
 
         So we can successfully conclud that 'Music(number 10)' and 'Entertainment(number
         24)' are the most popular category between YouTube trending videos, as it has been
-        shown at Figure 20([see document](https://github.com/Heejinee3/Data-Science/blob/master/Report.pdf)).
+        shown at Figure 20([see document](https://github.com/Heejinee3/Data-Science/blob/master/Docs/Report.pdf)).
 
     Conclusionally, clustering shows highly similar results with statistical analysis.
     
